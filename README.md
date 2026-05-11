@@ -1,8 +1,6 @@
 ![Maurizio Farina](https://avatars.githubusercontent.com/u/1065769?v=4)
 
-Maurizio Farina @mwzero //dev
-
-[GitHub Profile](https://github.com/mwzero) [Website](https://www.linkedin.com/in/farinamaurizio) 📍 Napoli
+Maurizio Farina @mwzero //dev [GitHub Profile](https://github.com/mwzero) [Website](https://www.linkedin.com/in/farinamaurizio) 📍 Napoli
 
 ### [jui](https://github.com/mwzero/jui)
 JUI is an innovative framework designed to empower Java developers to effortlessly create interactive web applications without the need for HTML, CSS, or JavaScript. By simply writing Java code, users can build dynamic user interfaces and serve their applications via a built-in HTTP server, streamlining the development process. With its lightweight design and ease of use, JUI not only enhances productivity but also allows developers to focus on their ideas, making it an impressive addition to any software project.
