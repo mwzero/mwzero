@@ -1,5 +1,3 @@
-![Maurizio Farina](https://avatars.githubusercontent.com/u/1065769?v=4)
-
 Maurizio Farina @mwzero //dev [Website](https://www.linkedin.com/in/farinamaurizio) 📍 Napoli
 
 ### [jui](https://github.com/mwzero/jui)
